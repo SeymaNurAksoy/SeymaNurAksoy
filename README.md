@@ -62,13 +62,13 @@ Kahvemi alır, test caselerimi açar ve yazılımı didik didik ederim. ☕💻
 - 🐱 Cat person (cats = tiny QA engineers 🐾)  
 - ☕ Coffee is not optional, it’s mandatory.  
 
-![Coffee](https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif)  
+![Cute Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)  
 
 ---
 
 ## 📫 Let’s Connect!  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/seyma-nur-aksoy)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)]([https://github.com/SeymaNurAksoy](https://www.linkedin.com/in/seyma-nur-aksoy/))  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)](https://github.com/SeymaNurAksoy)  
 
 ---
 
